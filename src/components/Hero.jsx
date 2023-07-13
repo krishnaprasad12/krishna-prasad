@@ -33,13 +33,8 @@ const Hero = () => {
         <a className="text-black" href="mailto:kparjun12@gmail.com" target="_blank">
           <FaEnvelopeSquare className="h-14 w-14 mx-2 transition ease-in-out delay-15 hover:-translate-y-1 hover:scale-110  duration-300 ..." />
         </a>
-
         <a className="text-black" href="https://trailblazer.me/id/krishnaprasad24" target="_blank">
           <FaSalesforce className="h-14 w-14 mx-2 transition ease-in-out delay-15 hover:-translate-y-1 hover:scale-110  duration-300 ..." />
-        </a>
-
-        <a className="text-black" href="https://www.facebook.com/profile.php?id=100014696296493" target="_blank">
-          <FaFacebookSquare className="h-14 w-14 mx-2 transition ease-in-out delay-15 hover:-translate-y-1 hover:scale-110  duration-300 ..." />
         </a>
 
         <a className="text-black" href="https://www.instagram.com/killerkp21/" target="_blank">
