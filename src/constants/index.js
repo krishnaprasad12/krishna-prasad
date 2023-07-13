@@ -208,69 +208,69 @@ import {
       image: bluelock,
       source_code_link: "https://github.com/krishnaprasad12/Bluelock",
     },
-    {
-      name: "Trends on Anime",
-      description:
-        "Anime trends aims to present anime-related information in a way that is both aesthetically pleasing and simple to comprehend.",
-      tags: [
-        {
-          name: "Python",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "Matplotlib",
-          color: "green-text-gradient",
-        },
-      ],
-      image: anime1,
-      source_code_link: "https://github.com/krishnaprasad12/Trends-on-Anime",
-    },
-    {
-      name: "Network Analysis of-Game of Thrones Characters",
-      description:
-        "Social network analysis concepts to analyze the relationships and interactions among characters in the 'A Song of Ice and Fire' book series.",
-      tags: [
-        {
-          name: "Python",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "Matplotlib",
-          color: "green-text-gradient",
-        },
-        {
-          name: "NetworkX",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: got1,
-      source_code_link: "https://github.com/krishnaprasad12/Network-Analysis-of-Game-of-Thrones-Characters",
-    },
-    {
-      name: "Food Royale",
-      description:
-        "Food Royale is an online e-commerce application designed to facilitate food delivery for restaurant vendors.",
-      tags: [
-        {
-          name: "HTML",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "CSS",
-          color: "green-text-gradient",
-        },
-        {
-          name: "JavaScript",
-          color: "pink-text-gradient",
-        },
-        {
-          name: "PHP",
-          color: "blue-text-gradient",
-        },
-      ],
-      image: royale,
-      source_code_link: "https://github.com/krishnaprasad12/Food-Royale",
-    },
+    // {
+    //   name: "Trends on Anime",
+    //   description:
+    //     "Anime trends aims to present anime-related information in a way that is both aesthetically pleasing and simple to comprehend.",
+    //   tags: [
+    //     {
+    //       name: "Python",
+    //       color: "blue-text-gradient",
+    //     },
+    //     {
+    //       name: "Matplotlib",
+    //       color: "green-text-gradient",
+    //     },
+    //   ],
+    //   image: anime1,
+    //   source_code_link: "https://github.com/krishnaprasad12/Trends-on-Anime",
+    // },
+    // {
+    //   name: "Network Analysis of-Game of Thrones Characters",
+    //   description:
+    //     "Social network analysis concepts to analyze the relationships and interactions among characters in the 'A Song of Ice and Fire' book series.",
+    //   tags: [
+    //     {
+    //       name: "Python",
+    //       color: "blue-text-gradient",
+    //     },
+    //     {
+    //       name: "Matplotlib",
+    //       color: "green-text-gradient",
+    //     },
+    //     {
+    //       name: "NetworkX",
+    //       color: "pink-text-gradient",
+    //     },
+    //   ],
+    //   image: got1,
+    //   source_code_link: "https://github.com/krishnaprasad12/Network-Analysis-of-Game-of-Thrones-Characters",
+    // },
+    // {
+    //   name: "Food Royale",
+    //   description:
+    //     "Food Royale is an online e-commerce application designed to facilitate food delivery for restaurant vendors.",
+    //   tags: [
+    //     {
+    //       name: "HTML",
+    //       color: "blue-text-gradient",
+    //     },
+    //     {
+    //       name: "CSS",
+    //       color: "green-text-gradient",
+    //     },
+    //     {
+    //       name: "JavaScript",
+    //       color: "pink-text-gradient",
+    //     },
+    //     {
+    //       name: "PHP",
+    //       color: "blue-text-gradient",
+    //     },
+    //   ],
+    //   image: royale,
+    //   source_code_link: "https://github.com/krishnaprasad12/Food-Royale",
+    // },
   ];
   
   export { services, technologies, experiences, projects };
