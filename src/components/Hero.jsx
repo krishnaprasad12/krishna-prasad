@@ -22,7 +22,7 @@ const Hero = () => {
           </p>
           <br/>
           <div className="inline-flex">
-          <a className="text-black" href="https://www.linkedin.com/in/krishna-prasad-9b619a1a8/" target="_blank">
+          <a className="text-black" href="https://www.linkedin.com/in/krishnaprasad24/" target="_blank">
           <FaLinkedin className="h-14 w-14 mx-2 transition ease-in-out delay-15 hover:-translate-y-1 hover:scale-110  duration-300 ..." />
         </a>
 
