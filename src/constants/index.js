@@ -131,7 +131,7 @@ import {
       title: "School",
       icon: nvn,
       iconBg: "#FFFFFF",
-      date: "April 2020",
+      date: "March 2018",
       points: [
         "Nalanda Vidya Niketan, Vijayawada, Andhra Pradesh",
         "Percentage: 79%"
