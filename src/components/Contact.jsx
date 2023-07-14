@@ -4,6 +4,10 @@ import emailjs from "@emailjs/browser";
 import { SectionWrapper } from "../hoc";
 import { slideIn } from "../utils/motion";
 
+// template_ldg47xb
+// service_8p9sn69
+// zQ6WSh8JHYbDfAJ26
+
 const Contact = () => {
   const formRef = useRef();
   const [form, setForm] = useState({
@@ -11,7 +15,7 @@ const Contact = () => {
     email: "",
     message: "",
   });
-
+  
   const [loading, setLoading] = useState(false);
 
   const handleChange = (e) => {
@@ -19,7 +23,7 @@ const Contact = () => {
     const { name, value } = target;
 
     setForm({
-      ...form,
+      ...form, 
       [name]: value,
     });
   };
@@ -63,7 +67,7 @@ const Contact = () => {
 
   return (
     <div
-      className={`xl:mt-12 flex xl:flex-row flex-col-reverse gap-10 overflow-hidden`}
+      className={`flex flex-col-reverse gap-10 overflow-hidden`}
     >
       <motion.div
         variants={slideIn("center", "tween", 0.2, 1)}
@@ -102,7 +106,7 @@ const Contact = () => {
           <label className='flex flex-col'>
             <span className='text-white font-medium mb-4'>Message</span>
             <textarea
-              rows={7}
+              rows={5}
               name='message'
               value={form.message}
               onChange={handleChange}
